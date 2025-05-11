@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Avinash99b/Drophere-backend.git
+[submodule "frontend-website"]
+	path = frontend-website
+	url = https://github.com/Avinash99b/Drophere-frontend-website.git
